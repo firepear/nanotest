@@ -27,3 +27,9 @@ find this code. Not because I want to use it for testing (at least, I
 don't think I do... right now... probably), or because it was a beacon
 of good design and code quality. But because it was a fun project that
 taught me a lot and let me get a little weird with Python.
+
+----
+
+A lot of the work of getting this code into a shape I was happy with
+happened over the 2012 holidays, on the farm of Sue Cassell McKinney,
+near Lynchburg TN. Love you, Aunt Sue.
