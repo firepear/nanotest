@@ -55,7 +55,7 @@ These days it seems that people have mostly settled on just having
 `python3` and `python2`. So after making that change...
 
 ```
-$ ./bin/nanotest-py -h
+$ ./bin/nanotest-py
 No tests found; nothing to do.
 ```
 
