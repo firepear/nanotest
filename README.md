@@ -4,7 +4,10 @@ Tiny testing toolkit (for Python)
 For now this repo is not _archived_ (in GitHub terms), but it should
 be treated _as an archive._ This is decade+ old code which I thought I
 had lost forever, and was glad to discover in PyPi. If you actually
-want to write tests for Python code, you want to go look at `pytest`.
+want to write tests for Python code, you want to go look at
+[pytest](https://pytest.org/).
+
+----
 
 I don't know how I lost access to the code; I have other repos from
 around the same time which survive to the present day, and I don't
