@@ -46,7 +46,7 @@ I haven't seen this code since early 2013. Let's go on a little dive, shall we?
 
 The very first thing I discovered was that the runner is not runnable,
 because I gave it a a shebang of `#!/usr/bin/env python`. I had
-already moved to python3 at this time, but I was also using Arch
+already moved to Python 3 at this time, but I was also using Arch
 Linux, whose stance at the time was "everyone should move to Python 3,
 and that's now `python` on our systems; if you want _old python_ you
 can find it over at `python2`".
