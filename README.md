@@ -94,6 +94,7 @@ Okay, right off the bat I have some questions and notes for 2013 me:
   we? Hubris much?
 - Why did I list all the options individually in the compact usage
   example?
+  - Edit: I didn't; `argparse` did. Whew.
 - The JSON argument was initially confusing, but I think I remembered
   why I added that. I'll get to it later.
 - The `silent` arg is pointless; if you want your test results to be
