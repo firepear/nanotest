@@ -101,11 +101,11 @@ Okay, right off the bat I have some questions and notes for 2013 me:
   quiet, you can redirect them
   - This is a good example of something I've been fighting against
     since my very first software project: the urge to just handle too
-    many cases/eventualities. Initially it was driven more by trying
-    to be clever, but I've done _a lot_ of work on that, and these
-    days it's mostly attempts to _be helpful_ and take care of things
-    for users. But that frequently stands in opposition to the [Unix
-    philosophy](https://en.wikipedia.org/wiki/Unix_philosophy_.
+    many cases/eventualities. Initially it was driven by trying to be
+    clever, but I've done _a lot_ of work on that and these days it's
+    mostly attempts to _be helpful_ and do things for users. But that
+    frequently stands in opposition to the [Unix
+    philosophy](https://en.wikipedia.org/wiki/Unix_philosophy).
 - I legitimately have no memory of the `noprepend` thing. I assume the
   code will enlighten me when I get into it
 - What the hell is a "developer test"? Are all tests not developer
